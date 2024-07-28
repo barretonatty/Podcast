@@ -8,24 +8,20 @@ Bem-vindo ao **Arquitetura em Pixels**, o podcast que explora a interseção ent
 
 ## Episódio Piloto
 
-**Título:** Do Mundo dos Games ao Mundo dos Bugs: Como Jogadores Superam Obstáculos na Programação
+**Título:** Episódio 1 - Piloto
 
 ### Tópicos Abordados
-1. **Do Jogo para a Vida**
+1. **Introdução**
    - Apresentação da host Natty e introdução ao tema.
    - A importância dos cenários em jogos e sua influência na experiência do jogador.
-2. **Power-Ups Analíticos**
+2. **Exemplos**
    - Como a arquitetura e a análise histórica contribuem para a criação de cenários detalhados.
    - Exemplo: Assassin's Creed e suas recriações históricas precisas.
-3. **Checkpoints de Persistência**
-   - A persistência e a pesquisa envolvidas no design de cenários de jogos.
    - Exemplo: Wolfenstein e seu cenário da Segunda Guerra Mundial.
-4. **Combo de Lógica e Criatividade**
-   - A combinação de lógica e criatividade no design arquitetônico dos jogos.
    - Exemplo: Bioshock e seu mundo subaquático inspirado no Art Déco.
-5. **Skill de Gamer Gera Achievement**
+3. **Conclusão**
    - Conclusão e a importância da precisão histórica e arquitetônica.
-   - Exemplo: The Legend of Zelda e seus cenários épicos inspirados na fantasia medieval.
+  
 
 ### Como Ouvir
 
